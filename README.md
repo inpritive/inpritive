@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Generative+AI;Learning+LLMs+%26+Building+Projects;Open+Source+Learner;Always+Learning+Something+New+🚀" />
 
-<img src="https://avatars.githubusercontent.com/u/223826386?v=4"/>
+<img src="https://github.com/inpritive.png" width="180" style="border-radius:50%;" />
 
 </div>
 
