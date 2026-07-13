@@ -66,6 +66,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=inpritive&theme=algolia&no-frame=true&row=1&column=7"/>
+ <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/>
 </p>
 
 # 📈 Contribution Graph
