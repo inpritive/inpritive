@@ -63,6 +63,8 @@
 <p align="center">
   
  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/>
+ <img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/7948c00f-85db-4948-83ee-1ee560e46c2e" />
+
 </p>
 
 # 📈 Contribution Graph
